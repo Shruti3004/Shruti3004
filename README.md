@@ -1,13 +1,8 @@
-### Hi there 👋
-
-<!--
-**Shruti3004/Shruti3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **Shruti3004/Shruti3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Shruti Agarwal</h1>
 <p align="center">Enthusiastic <a href="https://pragativerma18.github.io/Resume/">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shruti3004" alt="Shruti3004" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,13 +26,13 @@ excellent organizational skills, a clear understanding of frontend, backend, and
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html" alt="Shruti3004" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html" alt="Shruti3004" />
 </p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/Shruti3004" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
