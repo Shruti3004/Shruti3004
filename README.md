@@ -7,9 +7,9 @@
   <ul>
     <li>🔭 Web Developer</li>
     <li>🌱 I’m currently working on Reactjs</li>
-    <li>👨‍💻 All of my projects are available at [https://github.com/Shruti3004](https://github.com/Shruti3004)</li>
-    <li>💬 Ask me about **React & Open Source**</li>
-    <li>📫 How to reach me **mail2shruti.ag@gmail.com**</li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/Shruti3004" target="_blank">"https://github.com/Shruti3004"</a></li>
+    <li>💬 Ask me about React & Open Source</li>
+    <li>📫 How to reach me <a href="mailto:mail2shruti.ag@gmail.com" target="_blank">mail2shruti.ag@gmail.com</a></li>
   </ul>
 </p>
 
