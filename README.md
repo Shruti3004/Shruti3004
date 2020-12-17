@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Shruti Agarwal</h1>
 <p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 👨‍💻 All of my projects are available at [https://github.com/Shruti3004](https://github.com/Shruti3004)
-- 💬 Ask me about **React & Open Source**
-- 📫 How to reach me **mail2shruti.ag@gmail.com**
+<p>
+  <ul>
+    <li>🔭 Web Developer</li>
+    <li>🌱 I’m currently working on Reactjs</li>
+    <li>👨‍💻 All of my projects are available at [https://github.com/Shruti3004](https://github.com/Shruti3004)</li>
+    <li>💬 Ask me about **React & Open Source**</li>
+    <li>📫 How to reach me **mail2shruti.ag@gmail.com**</li>
+  </ul>
+</p>
 
 <!--
 ### Tech Stack
@@ -32,9 +34,8 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
 
-<div align="center">
-  <h3>Connect with me</h3>
-  <hr>
+<h2 align="center">Connect with me</h2>
+<div align="center">  
   <a href="https://github.com/Shruti3004" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
