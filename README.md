@@ -1,17 +1,15 @@
 <!-- **Shruti3004/Shruti3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hi 👋, I'm Shruti Agarwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shruti Agarwal</h1>
 <p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</p>
 
-<p>
-  <ul>
-    <li>🔭 Web Developer</li>
-    <li>🌱 I’m currently working on Reactjs</li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/Shruti3004" target="_blank">"https://github.com/Shruti3004"</a></li>
-    <li>💬 Ask me about React & Open Source</li>
-    <li>📫 How to reach me <a href="mailto:mail2shruti.ag@gmail.com" target="_blank">mail2shruti.ag@gmail.com</a></li>
-  </ul>
-</p>
+<ul>
+  <li>🔭 Web Developer</li>
+  <li>🌱 I’m currently working on Reactjs</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/Shruti3004" target="_blank">https://github.com/Shruti3004</a></li>
+  <li>💬 Ask me about React & Open Source</li>
+  <li>📫 How to reach me <a href="mailto:mail2shruti.ag@gmail.com" target="_blank">mail2shruti.ag@gmail.com</a></li>
+</ul>
 
 <!--
 ### Tech Stack
