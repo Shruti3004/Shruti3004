@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Shruti3004/Shruti3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Shruti3004/Shruti3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
