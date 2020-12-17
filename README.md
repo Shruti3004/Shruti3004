@@ -1,7 +1,7 @@
 <!-- **Shruti3004/Shruti3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shruti Agarwal</h1>
-<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.</p>
+<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.</p>
 
 <ul>
   <li>🔭 Web Developer</li>
@@ -37,7 +37,7 @@
   <a href="https://github.com/Shruti3004" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/pragati_verma18" target="_blank">
+  <a href="https://twitter.com/ShrutiA11593016" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/shruti-agarwal-650a17196/" target="_blank">
