@@ -25,13 +25,13 @@ excellent organizational skills, a clear understanding of frontend, backend, and
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html" alt="Shruti3004" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html" alt="Shruti3004" />
 </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
 
-## Connect with me  
+### Connect with me  
 <div align="left">
 <a href="https://github.com/Shruti3004" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -39,7 +39,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <a href="https://twitter.com/pragati_verma18" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pragativerma18" target="_blank">
+<a href="https://www.linkedin.com/in/shruti-agarwal-650a17196/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/pragati.verma.56863221" target="_blank">
