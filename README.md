@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html" alt="Shruti3004" />
 </p>
-<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
 
 <h2 align="center">Connect with me</h2>
