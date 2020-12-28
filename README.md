@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shruti Agarwal</h1>
 <p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.</p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shruti3004" alt="Shruti3004" /> </p>
 <ul>
   <li>🔭 Web Developer</li>
   <li>🌱 I’m currently working on Reactjs</li>
