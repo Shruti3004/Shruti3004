@@ -28,13 +28,12 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html&&langs_count=6" alt="Shruti3004" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&langs_count=8&hide_border=true" alt="Shruti3004" />
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti3004&layout=compact&hide_border=true" />
 </p>
-
 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
