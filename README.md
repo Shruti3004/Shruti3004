@@ -32,7 +32,7 @@
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" /></p>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti3004&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shruti3004&layout=compact" />
 </p>
 
 <h2 align="center">Connect with me</h2>
