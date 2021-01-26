@@ -27,6 +27,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p> -->
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html&langs_count=8 alt="Shruti3004" />
 </p>
