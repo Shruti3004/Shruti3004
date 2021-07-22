@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=html&langs_count=8 alt="Shruti3004" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti3004&layout=compact&hide=c&langs_count=10 alt="Shruti3004" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti3004&show_icons=true" alt="Shruti3004" />
